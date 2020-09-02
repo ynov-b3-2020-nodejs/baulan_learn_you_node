@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "bl": "^4.0.0",
+    "bl": "^4.0.3",
     "learnyounode": "^4.1.0",
     "moment": "^2.24.0",
     "through2-map": "^3.0.0"
